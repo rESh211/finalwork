@@ -8,7 +8,6 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/rESh211/finalwork/config"
 )
 
 func simulatorListenAndServeHTTP() {

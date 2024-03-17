@@ -46,7 +46,7 @@ func NewConfig(file string) Config {
 func GetDefaultConfig() Config {
 	fmt.Println("get default config")
 
-	const dir = "/home/astrviktor/golang/src/skillbox_diploma/cmd/data/"
+	const dir = "/GO/работы/Скилбокс/finalwork/pkg/data"
 	const addr = ":9999"
 
 	var config Config
