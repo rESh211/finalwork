@@ -5,7 +5,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"GO/работы/Скилбокс/finalwork/pkg/config/"
+	"github.com/rESh211/finalwork/blob/main/finalwork/pkg/config"
 
 	"github.com/astrviktor/skillbox_diploma/pkg/server"
 )
